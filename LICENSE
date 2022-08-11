@@ -19,3 +19,66 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+ <!DOCTYPE html>
+
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF8"/>
+        <title>Primeiro  Site  Do  Luiz  Dev</title>
+        <nav>
+            <h1>MENU PRINCIPAL</h1>
+            <ol type="I">
+            <li>SALA INICIAL</li>
+            <li>DADOS DE CONTATO</li>
+            <li>POSTAGENS </li>
+            <li>FALE CONOSCO</li>
+            <li>INSCREVA-SE </li>
+            </ol>
+        </nav>
+
+        <style>
+            p{
+                text-align: justify;
+                text-indent: 50px;
+            }
+        </style>
+    </head>
+    <body style="background-color: black; color: aliceblue;">
+        <div id="interface">
+            <hgroup>
+                <h1><b>"Bem  Vindo  Luiz Dev</b></h1>
+                <h2><b>Espero  Que  Esteja  Feliz</b></h2>
+            </hgroup>
+            <img src="nzuado.jpg">
+                <h1>&REG; NEXT ALIANCE &REG;</h1>
+            <hgroup>
+                <h3><b>Host  Do  Site</b></h3>
+                <h1>
+                    <i>
+                        Saiba  Pouco  Sobre  Luiz
+                </h1>
+                <h2>Luiz Marcos Abril Silva</h2>
+                <h3>Nascido  Em  12/09/2001</h3>
+                <H3>Genero :  Masculino</H3>
+                <h3>Email:  Luizmarcosabrilsilva54@gmail.com</h3>
+                <h3>De  Maringa  PR  </i></h3>
+            </hgroup>
+            <hgroup>
+                <h2><b>Como Montei Este Site</b></h2>
+                <p><i>Primeiramente Comecei A Estudar HTML5 Na E-Campo Em Maringa
+                    Empresa Qual Me Abriu As Portas Para O Conhecimento E Para 
+                    O Setor De Informaçao</i>
+                </p>
+            </hgroup>
+            <hgroup>
+                <h3><b>Objetivos</b></h3>
+                <p><i>Este Site Foi Desenvolvido Unicamente Para Fins Academicos 
+                    sem Quaiquer Utilidades Fora Estas Ate O Momento Atual</i>
+                </p>
+            </hgroup>
+            COPYRIGHT &copy; 2022 - BY Luiz Marcos Abril Silva <a href="https://devluiz.blogspot.com/">|BLOGGER PERFIL LINK </a>
+            
+        </div>
+</html>
